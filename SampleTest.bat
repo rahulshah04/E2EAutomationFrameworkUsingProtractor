@@ -1,4 +1,4 @@
-set Pathname = "C:/Users/rahul.shah/AppData/Roaming/npm"
+set Pathname = "E2EAutomationFrameworkUsingProtractor"
 cd /d %Pathname %
 @echo off
 title Command Executer
